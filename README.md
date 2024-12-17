@@ -17,7 +17,7 @@
 
 ## Автор 
 - Кобелев Андрей Андреевич  
-    - [email](mailto:andrey.pydev@gmail.com)
+    - [email](mailto:andrew.a.kobelev@yandex.ru)
   
 ## Технологии  
 - [Python](https://www.python.org/)
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 **Создать файл .env**
 
 ```
-FLASK_APP=the_app
+FLASK_APP=opinions_app
 FLASK_ENV=development
 DATABASE_URI=sqlite:///the_app.sqlite3
 ```
